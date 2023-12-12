@@ -83,4 +83,11 @@ p{
 form{
     text-align: center;
 }
+.mid{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -190px;
+}
 
